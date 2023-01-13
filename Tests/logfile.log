@@ -1,0 +1,93 @@
+2023-01-09 17:35:22,179 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:35:22,179 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:35:22,179 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:35:22,179 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:35:22,181 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:35:22,181 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:35:22,181 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:35:22,181 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:35:22,181 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:35:22,181 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:35:22,181 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:35:22,181 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:35:22,301 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:35:22,301 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:35:22,301 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:35:22,302 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:35:22,302 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:35:22,302 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:35:22,302 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:35:22,302 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:35:22,302 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:35:22,302 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:35:22,302 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:35:22,302 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:44:23,756 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:44:23,756 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:44:23,757 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:44:23,757 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:44:23,758 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:44:23,758 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:44:23,758 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:44:23,758 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:44:23,759 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:44:23,759 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:44:23,759 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:44:23,759 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:44:23,884 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:44:23,884 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:44:23,884 :INFO : utilities.BaseClass :Information statement
+2023-01-09 17:44:23,884 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:44:23,884 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:44:23,884 :WARNING : utilities.BaseClass :Something is in warning mode
+2023-01-09 17:44:23,884 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:44:23,884 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:44:23,884 :ERROR : utilities.BaseClass :A Major error has happend
+2023-01-09 17:44:23,884 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:44:23,884 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:44:23,884 :CRITICAL : utilities.BaseClass :Critical issue
+2023-01-09 17:53:29,733 :INFO : utilities.BaseClass :get all info
+2023-01-09 17:53:29,733 :INFO : utilities.BaseClass :get all info
+2023-01-09 17:53:31,964 :INFO : utilities.BaseClass :get all info
+2023-01-09 17:53:31,964 :INFO : utilities.BaseClass :get all info
+2023-01-09 17:53:31,964 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:15:21,875 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:15:21,875 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:15:24,124 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:15:24,124 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:15:24,124 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:41,052 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:41,052 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:41,052 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:43,285 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:43,285 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:43,285 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:17:43,285 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,752 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,752 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,752 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,892 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,892 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,892 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:18:35,892 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:15,870 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:15,870 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:15,870 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:18,104 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:18,104 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:18,104 :INFO : utilities.BaseClass :get all info
+2023-01-10 10:24:18,104 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:08,908 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:08,908 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:08,908 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:11,147 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:11,147 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:11,147 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:26:11,147 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:10,247 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:10,247 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:10,247 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:12,484 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:12,484 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:12,484 :INFO : utilities.BaseClass :get all info
+2023-01-10 20:53:12,484 :INFO : utilities.BaseClass :get all info
