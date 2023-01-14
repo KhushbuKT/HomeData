@@ -7,7 +7,7 @@ from selenium.webdriver.safari.service import Service as ServiceSafari
 
 def pytest_addoption(parser):
     parser.addoption("--browser_name", action="store", default="chrome")
-
+#/Users/khushbutiwari/Documents/Selenium_Doc/Software
 
 @pytest.fixture(scope="class")
 def setup(request):
@@ -17,7 +17,7 @@ def setup(request):
         driver = webdriver.Chrome(service=service_obj)
     if browserName == "firefox":
         service_obj = ServiceFF("/Users/khushbutiwari/Documents/Selenium_Doc/Software/FF/geckodriver")
-        driver = webdriver.Chrome(service=service_obj)
+        driver = webdriver.Firefox(service=service_obj)
     if browserName == "safari":
         service_obj = ServiceSafari("/usr/bin/safaridriver")
         driver = webdriver.Safari(service=service_obj)

@@ -11,7 +11,7 @@ class Base:
         wait = WebDriverWait(self.driver, 10)
         wait.until(expected_conditions.presence_of_element_located(by))
 
-    def test_loggingDemo(self):
+    def loggingDemo(self):
         logger = logging.getLogger(__name__)
 
         fileHandler = logging.FileHandler('logfile.log')
